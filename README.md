@@ -1,5 +1,5 @@
-# al-Qur'an JSON API [id-ID]
-Grabed from Officially [Kementerian Agama Website](https://quran.kemenag.go.id/) then parsed as JSON file. No change anything on it, just reorder JSON schema.
+# Al-Qur'an JSON API [id-ID]
+Grabbed from Officially [Kementerian Agama Website](https://quran.kemenag.go.id/) then parsed as JSON file. No change anything on it, just reorder JSON schema and make it better.
 
 ## API
 Just fetch `.json` file
