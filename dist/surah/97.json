@@ -1,0 +1,45 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/097001.mp3",
+      "id": 6126,
+      "index": 1,
+      "text": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ ",
+      "text_translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam qadar."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/097002.mp3",
+      "id": 6127,
+      "index": 2,
+      "text": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+      "text_translation": "Dan tahukah kamu apakah malam kemuliaan itu?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/097003.mp3",
+      "id": 6128,
+      "index": 3,
+      "text": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+      "text_translation": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/097004.mp3",
+      "id": 6129,
+      "index": 4,
+      "text": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+      "text_translation": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/097005.mp3",
+      "id": 6130,
+      "index": 5,
+      "text": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+      "text_translation": "Sejahteralah (malam itu) sampai terbit fajar."
+    }
+  ],
+  "id": 97,
+  "id_juz": 30,
+  "name": "Al-Qadr",
+  "name_arabic": " القدر",
+  "name_translation": "Kemuliaan",
+  "total": 5
+}

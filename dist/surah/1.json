@@ -1,0 +1,59 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001001.mp3",
+      "id": 1,
+      "index": 1,
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "text_translation": "\u003cp\u003eDengan nama Allah Yang Maha Pengasih, Maha Penyayang.\u003c/p\u003e"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001002.mp3",
+      "id": 2,
+      "index": 2,
+      "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+      "text_translation": "Segala puji bagi Allah, Tuhan seluruh alam,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001003.mp3",
+      "id": 3,
+      "index": 3,
+      "text": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+      "text_translation": "Yang Maha Pengasih, Maha Penyayang,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001004.mp3",
+      "id": 4,
+      "index": 4,
+      "text": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+      "text_translation": "Pemilik hari pembalasan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001005.mp3",
+      "id": 5,
+      "index": 5,
+      "text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+      "text_translation": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001006.mp3",
+      "id": 6,
+      "index": 6,
+      "text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ",
+      "text_translation": "Tunjukilah kami jalan yang lurus,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/001007.mp3",
+      "id": 7,
+      "index": 7,
+      "text": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+      "text_translation": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+    }
+  ],
+  "id": 1,
+  "id_juz": 1,
+  "name": "Al-Fatihah",
+  "name_arabic": " الفاتحة",
+  "name_translation": "Pembukaan",
+  "total": 7
+}

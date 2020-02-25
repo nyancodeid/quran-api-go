@@ -1,0 +1,38 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/112001.mp3",
+      "id": 6222,
+      "index": 1,
+      "text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+      "text_translation": "Katakanlah (Muhammad), “Dialah Allah, Yang Maha Esa."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/112002.mp3",
+      "id": 6223,
+      "index": 2,
+      "text": "اَللّٰهُ الصَّمَدُۚ",
+      "text_translation": "Allah tempat meminta segala sesuatu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/112003.mp3",
+      "id": 6224,
+      "index": 3,
+      "text": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+      "text_translation": "(Allah) tidak beranak dan tidak pula diperanakkan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/112004.mp3",
+      "id": 6225,
+      "index": 4,
+      "text": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+      "text_translation": "Dan tidak ada sesuatu yang setara dengan Dia.”"
+    }
+  ],
+  "id": 112,
+  "id_juz": 30,
+  "name": "Al-Ikhlas",
+  "name_arabic": " الاخلاص",
+  "name_translation": "Ikhlas",
+  "total": 4
+}

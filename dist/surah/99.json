@@ -1,0 +1,66 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099001.mp3",
+      "id": 6139,
+      "index": 1,
+      "text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+      "text_translation": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099002.mp3",
+      "id": 6140,
+      "index": 2,
+      "text": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+      "text_translation": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099003.mp3",
+      "id": 6141,
+      "index": 3,
+      "text": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+      "text_translation": "Dan manusia bertanya, “Apa yang terjadi pada bumi ini?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099004.mp3",
+      "id": 6142,
+      "index": 4,
+      "text": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+      "text_translation": "Pada hari itu bumi menyampaikan beritanya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099005.mp3",
+      "id": 6143,
+      "index": 5,
+      "text": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+      "text_translation": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099006.mp3",
+      "id": 6144,
+      "index": 6,
+      "text": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+      "text_translation": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok, untuk diperlihatkan kepada mereka (balasan) semua perbuatannya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099007.mp3",
+      "id": 6145,
+      "index": 7,
+      "text": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+      "text_translation": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/099008.mp3",
+      "id": 6146,
+      "index": 8,
+      "text": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+      "text_translation": "dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya."
+    }
+  ],
+  "id": 99,
+  "id_juz": 30,
+  "name": "Az-Zalzalah",
+  "name_arabic": " الزلزلة",
+  "name_translation": "Guncangan",
+  "total": 8
+}

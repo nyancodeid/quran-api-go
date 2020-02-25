@@ -1,0 +1,31 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/103001.mp3",
+      "id": 6177,
+      "index": 1,
+      "text": "وَالْعَصْرِۙ",
+      "text_translation": "Demi masa,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/103002.mp3",
+      "id": 6178,
+      "index": 2,
+      "text": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "text_translation": "sungguh, manusia berada dalam kerugian,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/103003.mp3",
+      "id": 6179,
+      "index": 3,
+      "text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "text_translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+    }
+  ],
+  "id": 103,
+  "id_juz": 30,
+  "name": "Al-'Asr",
+  "name_arabic": " العصر",
+  "name_translation": "Asar",
+  "total": 3
+}

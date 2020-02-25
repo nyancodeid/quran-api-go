@@ -1,0 +1,38 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/106001.mp3",
+      "id": 6194,
+      "index": 1,
+      "text": "لِاِيْلٰفِ قُرَيْشٍۙ",
+      "text_translation": "Karena kebiasaan orang-orang Quraisy,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/106002.mp3",
+      "id": 6195,
+      "index": 2,
+      "text": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+      "text_translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/106003.mp3",
+      "id": 6196,
+      "index": 3,
+      "text": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+      "text_translation": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/106004.mp3",
+      "id": 6197,
+      "index": 4,
+      "text": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+      "text_translation": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+    }
+  ],
+  "id": 106,
+  "id_juz": 30,
+  "name": "Quraisy",
+  "name_arabic": " قريش",
+  "name_translation": "Quraisy",
+  "total": 4
+}

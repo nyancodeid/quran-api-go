@@ -1,0 +1,45 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/111001.mp3",
+      "id": 6217,
+      "index": 1,
+      "text": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+      "text_translation": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/111002.mp3",
+      "id": 6218,
+      "index": 2,
+      "text": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+      "text_translation": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/111003.mp3",
+      "id": 6219,
+      "index": 3,
+      "text": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+      "text_translation": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/111004.mp3",
+      "id": 6220,
+      "index": 4,
+      "text": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+      "text_translation": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/111005.mp3",
+      "id": 6221,
+      "index": 5,
+      "text": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+      "text_translation": "Di lehernya ada tali dari sabut yang dipintal."
+    }
+  ],
+  "id": 111,
+  "id_juz": 30,
+  "name": "Al-Lahab",
+  "name_arabic": " اللهب",
+  "name_translation": "Api Yang Bergejolak",
+  "total": 5
+}

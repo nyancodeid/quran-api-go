@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "id_juz": 1,
+    "name": "Al-Fatihah",
+    "name_arabic": " الفاتحة",
+    "name_translation": "Pembukaan",
+    "total": 7
+  },
+  {
+    "id": 2,
+    "id_juz": 1,
+    "name": "Al-Baqarah",
+    "name_arabic": " البقرة",
+    "name_translation": "Sapi",
+    "total": 286
+  },
+  {
+    "id": 3,
+    "id_juz": 3,
+    "name": "Ali 'Imran",
+    "name_arabic": " اٰل عمران",
+    "name_translation": "Keluarga Imran",
+    "total": 200
+  },
+  {
+    "id": 4,
+    "id_juz": 4,
+    "name": "An-Nisa'",
+    "name_arabic": " النساۤء",
+    "name_translation": "Wanita",
+    "total": 176
+  },
+  {
+    "id": 5,
+    "id_juz": 6,
+    "name": "Al-Ma'idah",
+    "name_arabic": " الماۤئدة",
+    "name_translation": "Hidangan",
+    "total": 120
+  },
+  {
+    "id": 6,
+    "id_juz": 7,
+    "name": "Al-An'am",
+    "name_arabic": " الانعام",
+    "name_translation": "Binatang Ternak",
+    "total": 165
+  },
+  {
+    "id": 7,
+    "id_juz": 8,
+    "name": "Al-A'raf",
+    "name_arabic": " الاعراف",
+    "name_translation": "Tempat Tertinggi",
+    "total": 206
+  },
+  {
+    "id": 8,
+    "id_juz": 9,
+    "name": "Al-Anfal",
+    "name_arabic": " الانفال",
+    "name_translation": "Rampasan Perang",
+    "total": 75
+  },
+  {
+    "id": 9,
+    "id_juz": 10,
+    "name": "At-Taubah",
+    "name_arabic": " التوبة",
+    "name_translation": "Pengampunan",
+    "total": 129
+  },
+  {
+    "id": 10,
+    "id_juz": 11,
+    "name": "Yunus",
+    "name_arabic": " يونس",
+    "name_translation": "Yunus",
+    "total": 109
+  },
+  {
+    "id": 11,
+    "id_juz": 11,
+    "name": "Hud",
+    "name_arabic": " هود",
+    "name_translation": "Hud",
+    "total": 123
+  },
+  {
+    "id": 12,
+    "id_juz": 12,
+    "name": "Yusuf",
+    "name_arabic": " يوسف",
+    "name_translation": "Yusuf",
+    "total": 111
+  },
+  {
+    "id": 13,
+    "id_juz": 13,
+    "name": "Ar-Ra'd",
+    "name_arabic": " الرّعد",
+    "name_translation": "Guruh",
+    "total": 43
+  },
+  {
+    "id": 14,
+    "id_juz": 13,
+    "name": "Ibrahim",
+    "name_arabic": " ابرٰهيم",
+    "name_translation": "Ibrahim",
+    "total": 52
+  },
+  {
+    "id": 15,
+    "id_juz": 13,
+    "name": "Al-Hijr",
+    "name_arabic": " الحجر",
+    "name_translation": "Hijr",
+    "total": 99
+  },
+  {
+    "id": 16,
+    "id_juz": 14,
+    "name": "An-Nahl",
+    "name_arabic": " النحل",
+    "name_translation": "Lebah",
+    "total": 128
+  },
+  {
+    "id": 17,
+    "id_juz": 15,
+    "name": "Al-Isra'",
+    "name_arabic": " الاسراۤء",
+    "name_translation": "Memperjalankan Malam Hari",
+    "total": 111
+  },
+  {
+    "id": 18,
+    "id_juz": 15,
+    "name": "Al-Kahf",
+    "name_arabic": " الكهف",
+    "name_translation": "Goa",
+    "total": 110
+  },
+  {
+    "id": 19,
+    "id_juz": 16,
+    "name": "Maryam",
+    "name_arabic": " مريم",
+    "name_translation": "Maryam",
+    "total": 98
+  },
+  {
+    "id": 20,
+    "id_juz": 16,
+    "name": "Taha",
+    "name_arabic": " طٰهٰ",
+    "name_translation": "Taha",
+    "total": 135
+  },
+  {
+    "id": 21,
+    "id_juz": 17,
+    "name": "Al-Anbiya'",
+    "name_arabic": " الانبياۤء",
+    "name_translation": "Para Nabi",
+    "total": 112
+  },
+  {
+    "id": 22,
+    "id_juz": 17,
+    "name": "Al-Hajj",
+    "name_arabic": " الحج",
+    "name_translation": "Haji",
+    "total": 78
+  },
+  {
+    "id": 23,
+    "id_juz": 18,
+    "name": "Al-Mu'minun",
+    "name_arabic": " المؤمنون",
+    "name_translation": "Orang-Orang Mukmin",
+    "total": 118
+  },
+  {
+    "id": 24,
+    "id_juz": 18,
+    "name": "An-Nur",
+    "name_arabic": " النّور",
+    "name_translation": "Cahaya",
+    "total": 64
+  },
+  {
+    "id": 25,
+    "id_juz": 18,
+    "name": "Al-Furqan",
+    "name_arabic": " الفرقان",
+    "name_translation": "Pembeda",
+    "total": 77
+  },
+  {
+    "id": 26,
+    "id_juz": 19,
+    "name": "Asy-Syu'ara'",
+    "name_arabic": " الشعراۤء",
+    "name_translation": "Para Penyair",
+    "total": 227
+  },
+  {
+    "id": 27,
+    "id_juz": 19,
+    "name": "An-Naml",
+    "name_arabic": " النمل",
+    "name_translation": "Semut-semut",
+    "total": 93
+  },
+  {
+    "id": 28,
+    "id_juz": 20,
+    "name": "Al-Qasas",
+    "name_arabic": " القصص",
+    "name_translation": "Kisah-Kisah",
+    "total": 88
+  },
+  {
+    "id": 29,
+    "id_juz": 20,
+    "name": "Al-'Ankabut",
+    "name_arabic": " العنكبوت",
+    "name_translation": "Laba-Laba",
+    "total": 69
+  },
+  {
+    "id": 30,
+    "id_juz": 21,
+    "name": "Ar-Rum",
+    "name_arabic": " الرّوم",
+    "name_translation": "Romawi",
+    "total": 60
+  },
+  {
+    "id": 31,
+    "id_juz": 21,
+    "name": "Luqman",
+    "name_arabic": " لقمٰن",
+    "name_translation": "Luqman",
+    "total": 34
+  },
+  {
+    "id": 32,
+    "id_juz": 21,
+    "name": "As-Sajdah",
+    "name_arabic": " السّجدة",
+    "name_translation": "Sajdah",
+    "total": 30
+  },
+  {
+    "id": 33,
+    "id_juz": 21,
+    "name": "Al-Ahzab",
+    "name_arabic": " الاحزاب",
+    "name_translation": "Golongan Yang Bersekutu",
+    "total": 73
+  },
+  {
+    "id": 34,
+    "id_juz": 22,
+    "name": "Saba'",
+    "name_arabic": " سبأ",
+    "name_translation": "Saba'",
+    "total": 54
+  },
+  {
+    "id": 35,
+    "id_juz": 22,
+    "name": "Fatir",
+    "name_arabic": " فاطر",
+    "name_translation": "Maha Pencipta",
+    "total": 45
+  },
+  {
+    "id": 36,
+    "id_juz": 22,
+    "name": "Yasin",
+    "name_arabic": " يٰسۤ",
+    "name_translation": "Yasin",
+    "total": 83
+  },
+  {
+    "id": 37,
+    "id_juz": 23,
+    "name": "As-Saffat",
+    "name_arabic": " الصّٰۤفّٰت",
+    "name_translation": "Barisan-Barisan",
+    "total": 182
+  },
+  {
+    "id": 38,
+    "id_juz": 23,
+    "name": "Sad",
+    "name_arabic": " ص",
+    "name_translation": "Sad",
+    "total": 88
+  },
+  {
+    "id": 39,
+    "id_juz": 23,
+    "name": "Az-Zumar",
+    "name_arabic": " الزمر",
+    "name_translation": "Rombongan",
+    "total": 75
+  },
+  {
+    "id": 40,
+    "id_juz": 24,
+    "name": "Gafir",
+    "name_arabic": " غافر",
+    "name_translation": "Maha Pengampun",
+    "total": 85
+  },
+  {
+    "id": 41,
+    "id_juz": 24,
+    "name": "Fussilat",
+    "name_arabic": " فصّلت",
+    "name_translation": "Yang Dijelaskan",
+    "total": 54
+  },
+  {
+    "id": 42,
+    "id_juz": 25,
+    "name": "Asy-Syura",
+    "name_arabic": " الشورى",
+    "name_translation": "Musyawarah",
+    "total": 53
+  },
+  {
+    "id": 43,
+    "id_juz": 25,
+    "name": "Az-Zukhruf",
+    "name_arabic": " الزخرف",
+    "name_translation": "Perhiasan",
+    "total": 89
+  },
+  {
+    "id": 44,
+    "id_juz": 25,
+    "name": "Ad-Dukhan",
+    "name_arabic": " الدخان",
+    "name_translation": "Kabut",
+    "total": 59
+  },
+  {
+    "id": 45,
+    "id_juz": 25,
+    "name": "Al-Jasiyah",
+    "name_arabic": " الجاثية",
+    "name_translation": "Berlutut",
+    "total": 37
+  },
+  {
+    "id": 46,
+    "id_juz": 26,
+    "name": "Al-Ahqaf",
+    "name_arabic": " الاحقاف",
+    "name_translation": "Bukit Pasir",
+    "total": 35
+  },
+  {
+    "id": 47,
+    "id_juz": 26,
+    "name": "Muhammad",
+    "name_arabic": " محمّد",
+    "name_translation": "Muhammad",
+    "total": 38
+  },
+  {
+    "id": 48,
+    "id_juz": 26,
+    "name": "Al-Fath",
+    "name_arabic": " الفتح",
+    "name_translation": "Kemenangan",
+    "total": 29
+  },
+  {
+    "id": 49,
+    "id_juz": 26,
+    "name": "Al-Hujurat",
+    "name_arabic": " الحجرٰت",
+    "name_translation": "Kamar-Kamar",
+    "total": 18
+  },
+  {
+    "id": 50,
+    "id_juz": 26,
+    "name": "Qaf",
+    "name_arabic": " ق",
+    "name_translation": "Qaf",
+    "total": 45
+  },
+  {
+    "id": 51,
+    "id_juz": 26,
+    "name": "Az-Zariyat",
+    "name_arabic": " الذّٰريٰت",
+    "name_translation": "Angin yang Menerbangkan",
+    "total": 60
+  },
+  {
+    "id": 52,
+    "id_juz": 27,
+    "name": "At-Tur",
+    "name_arabic": " الطور",
+    "name_translation": "Bukit Tursina",
+    "total": 49
+  },
+  {
+    "id": 53,
+    "id_juz": 27,
+    "name": "An-Najm",
+    "name_arabic": " النجم",
+    "name_translation": "Bintang",
+    "total": 62
+  },
+  {
+    "id": 54,
+    "id_juz": 27,
+    "name": "Al-Qamar",
+    "name_arabic": " القمر",
+    "name_translation": "Bulan",
+    "total": 55
+  },
+  {
+    "id": 55,
+    "id_juz": 27,
+    "name": "Ar-Rahman",
+    "name_arabic": " الرحمن",
+    "name_translation": "Maha Pengasih",
+    "total": 78
+  },
+  {
+    "id": 56,
+    "id_juz": 27,
+    "name": "Al-Waqi'ah",
+    "name_arabic": " الواقعة",
+    "name_translation": "Hari Kiamat",
+    "total": 96
+  },
+  {
+    "id": 57,
+    "id_juz": 27,
+    "name": "Al-Hadid",
+    "name_arabic": " الحديد",
+    "name_translation": "Besi",
+    "total": 29
+  },
+  {
+    "id": 58,
+    "id_juz": 28,
+    "name": "Al-Mujadalah",
+    "name_arabic": " المجادلة",
+    "name_translation": "Gugatan",
+    "total": 22
+  },
+  {
+    "id": 59,
+    "id_juz": 28,
+    "name": "Al-Hasyr",
+    "name_arabic": " الحشر",
+    "name_translation": "Pengusiran",
+    "total": 24
+  },
+  {
+    "id": 60,
+    "id_juz": 28,
+    "name": "Al-Mumtahanah",
+    "name_arabic": " الممتحنة",
+    "name_translation": "Wanita Yang Diuji",
+    "total": 13
+  },
+  {
+    "id": 61,
+    "id_juz": 28,
+    "name": "As-Saff",
+    "name_arabic": " الصّفّ",
+    "name_translation": "Barisan",
+    "total": 14
+  },
+  {
+    "id": 62,
+    "id_juz": 28,
+    "name": "Al-Jumu'ah",
+    "name_arabic": " الجمعة",
+    "name_translation": "Jumat",
+    "total": 11
+  },
+  {
+    "id": 63,
+    "id_juz": 28,
+    "name": "Al-Munafiqun",
+    "name_arabic": " المنٰفقون",
+    "name_translation": "Orang-Orang Munafik",
+    "total": 11
+  },
+  {
+    "id": 64,
+    "id_juz": 28,
+    "name": "At-Tagabun",
+    "name_arabic": " التغابن",
+    "name_translation": "Pengungkapan Kesalahan",
+    "total": 18
+  },
+  {
+    "id": 65,
+    "id_juz": 28,
+    "name": "At-Talaq",
+    "name_arabic": " الطلاق",
+    "name_translation": "Talak",
+    "total": 12
+  },
+  {
+    "id": 66,
+    "id_juz": 28,
+    "name": "At-Tahrim",
+    "name_arabic": " التحريم",
+    "name_translation": "Pengharaman",
+    "total": 12
+  },
+  {
+    "id": 67,
+    "id_juz": 29,
+    "name": "Al-Mulk",
+    "name_arabic": " الملك",
+    "name_translation": "Kerajaan",
+    "total": 30
+  },
+  {
+    "id": 68,
+    "id_juz": 29,
+    "name": "Al-Qalam",
+    "name_arabic": " القلم",
+    "name_translation": "Pena",
+    "total": 52
+  },
+  {
+    "id": 69,
+    "id_juz": 29,
+    "name": "Al-Haqqah",
+    "name_arabic": " الحاۤقّة",
+    "name_translation": "Hari Kiamat",
+    "total": 52
+  },
+  {
+    "id": 70,
+    "id_juz": 29,
+    "name": "Al-Ma'arij",
+    "name_arabic": " المعارج",
+    "name_translation": "Tempat Naik",
+    "total": 44
+  },
+  {
+    "id": 71,
+    "id_juz": 29,
+    "name": "Nuh",
+    "name_arabic": " نوح",
+    "name_translation": "Nuh",
+    "total": 28
+  },
+  {
+    "id": 72,
+    "id_juz": 29,
+    "name": "Al-Jinn",
+    "name_arabic": " الجن",
+    "name_translation": "Jin",
+    "total": 28
+  },
+  {
+    "id": 73,
+    "id_juz": 29,
+    "name": "Al-Muzzammil",
+    "name_arabic": " المزّمّل",
+    "name_translation": "Orang Yang Berselimut",
+    "total": 20
+  },
+  {
+    "id": 74,
+    "id_juz": 29,
+    "name": "Al-Muddassir",
+    "name_arabic": " المدّثّر",
+    "name_translation": "Orang Yang Berkemul",
+    "total": 56
+  },
+  {
+    "id": 75,
+    "id_juz": 29,
+    "name": "Al-Qiyamah",
+    "name_arabic": " القيٰمة",
+    "name_translation": "Hari Kiamat",
+    "total": 40
+  },
+  {
+    "id": 76,
+    "id_juz": 29,
+    "name": "Al-Insan",
+    "name_arabic": " الانسان",
+    "name_translation": "Manusia",
+    "total": 31
+  },
+  {
+    "id": 77,
+    "id_juz": 29,
+    "name": "Al-Mursalat",
+    "name_arabic": " المرسلٰت",
+    "name_translation": "Malaikat Yang Diutus",
+    "total": 50
+  },
+  {
+    "id": 78,
+    "id_juz": 30,
+    "name": "An-Naba'",
+    "name_arabic": " النبأ",
+    "name_translation": "Berita Besar",
+    "total": 40
+  },
+  {
+    "id": 79,
+    "id_juz": 30,
+    "name": "An-Nazi'at",
+    "name_arabic": " النّٰزعٰت",
+    "name_translation": "Malaikat Yang Mencabut",
+    "total": 46
+  },
+  {
+    "id": 80,
+    "id_juz": 30,
+    "name": "'Abasa",
+    "name_arabic": " عبس",
+    "name_translation": "Bermuka Masam",
+    "total": 42
+  },
+  {
+    "id": 81,
+    "id_juz": 30,
+    "name": "At-Takwir",
+    "name_arabic": " التكوير",
+    "name_translation": "Penggulungan",
+    "total": 29
+  },
+  {
+    "id": 82,
+    "id_juz": 30,
+    "name": "Al-Infitar",
+    "name_arabic": " الانفطار",
+    "name_translation": "Terbelah",
+    "total": 19
+  },
+  {
+    "id": 83,
+    "id_juz": 30,
+    "name": "Al-Mutaffifin",
+    "name_arabic": " المطفّفين",
+    "name_translation": "Orang-Orang Curang",
+    "total": 36
+  },
+  {
+    "id": 84,
+    "id_juz": 30,
+    "name": "Al-Insyiqaq",
+    "name_arabic": " الانشقاق",
+    "name_translation": "Terbelah",
+    "total": 25
+  },
+  {
+    "id": 85,
+    "id_juz": 30,
+    "name": "Al-Buruj",
+    "name_arabic": " البروج",
+    "name_translation": "Gugusan Bintang",
+    "total": 22
+  },
+  {
+    "id": 86,
+    "id_juz": 30,
+    "name": "At-Tariq",
+    "name_arabic": " الطارق",
+    "name_translation": "Yang Datang Di Malam Hari",
+    "total": 17
+  },
+  {
+    "id": 87,
+    "id_juz": 30,
+    "name": "Al-A'la",
+    "name_arabic": " الاعلى",
+    "name_translation": "Maha Tinggi",
+    "total": 19
+  },
+  {
+    "id": 88,
+    "id_juz": 30,
+    "name": "Al-Gasyiyah",
+    "name_arabic": " الغاشية",
+    "name_translation": "Hari Kiamat",
+    "total": 26
+  },
+  {
+    "id": 89,
+    "id_juz": 30,
+    "name": "Al-Fajr",
+    "name_arabic": " الفجر",
+    "name_translation": "Fajar",
+    "total": 30
+  },
+  {
+    "id": 90,
+    "id_juz": 30,
+    "name": "Al-Balad",
+    "name_arabic": " البلد",
+    "name_translation": "Negeri",
+    "total": 20
+  },
+  {
+    "id": 91,
+    "id_juz": 30,
+    "name": "Asy-Syams",
+    "name_arabic": " الشمس",
+    "name_translation": "Matahari",
+    "total": 15
+  },
+  {
+    "id": 92,
+    "id_juz": 30,
+    "name": "Al-Lail",
+    "name_arabic": " الّيل",
+    "name_translation": "Malam",
+    "total": 21
+  },
+  {
+    "id": 93,
+    "id_juz": 30,
+    "name": "Ad-Duha",
+    "name_arabic": " الضحى",
+    "name_translation": "Duha",
+    "total": 11
+  },
+  {
+    "id": 94,
+    "id_juz": 30,
+    "name": "Asy-Syarh",
+    "name_arabic": " الشرح",
+    "name_translation": "Lapang",
+    "total": 8
+  },
+  {
+    "id": 95,
+    "id_juz": 30,
+    "name": "At-Tin",
+    "name_arabic": " التين",
+    "name_translation": "Buah Tin",
+    "total": 8
+  },
+  {
+    "id": 96,
+    "id_juz": 30,
+    "name": "Al-'Alaq",
+    "name_arabic": " العلق",
+    "name_translation": "Segumpal Darah",
+    "total": 19
+  },
+  {
+    "id": 97,
+    "id_juz": 30,
+    "name": "Al-Qadr",
+    "name_arabic": " القدر",
+    "name_translation": "Kemuliaan",
+    "total": 5
+  },
+  {
+    "id": 98,
+    "id_juz": 30,
+    "name": "Al-Bayyinah",
+    "name_arabic": " البيّنة",
+    "name_translation": "Bukti Nyata",
+    "total": 8
+  },
+  {
+    "id": 99,
+    "id_juz": 30,
+    "name": "Az-Zalzalah",
+    "name_arabic": " الزلزلة",
+    "name_translation": "Guncangan",
+    "total": 8
+  },
+  {
+    "id": 100,
+    "id_juz": 30,
+    "name": "Al-'Adiyat",
+    "name_arabic": " العٰديٰت",
+    "name_translation": "Kuda Yang Berlari Kencang",
+    "total": 11
+  },
+  {
+    "id": 101,
+    "id_juz": 30,
+    "name": "Al-Qari'ah",
+    "name_arabic": " القارعة",
+    "name_translation": "Hari Kiamat",
+    "total": 11
+  },
+  {
+    "id": 102,
+    "id_juz": 30,
+    "name": "At-Takasur",
+    "name_arabic": " التكاثر",
+    "name_translation": "Bermegah-Megahan",
+    "total": 8
+  },
+  {
+    "id": 103,
+    "id_juz": 30,
+    "name": "Al-'Asr",
+    "name_arabic": " العصر",
+    "name_translation": "Asar",
+    "total": 3
+  },
+  {
+    "id": 104,
+    "id_juz": 30,
+    "name": "Al-Humazah",
+    "name_arabic": " الهمزة",
+    "name_translation": "Pengumpat",
+    "total": 9
+  },
+  {
+    "id": 105,
+    "id_juz": 30,
+    "name": "Al-Fil",
+    "name_arabic": " الفيل",
+    "name_translation": "Gajah",
+    "total": 5
+  },
+  {
+    "id": 106,
+    "id_juz": 30,
+    "name": "Quraisy",
+    "name_arabic": " قريش",
+    "name_translation": "Quraisy",
+    "total": 4
+  },
+  {
+    "id": 107,
+    "id_juz": 30,
+    "name": "Al-Ma'un",
+    "name_arabic": " الماعون",
+    "name_translation": "Barang Yang Berguna",
+    "total": 7
+  },
+  {
+    "id": 108,
+    "id_juz": 30,
+    "name": "Al-Kausar",
+    "name_arabic": " الكوثر",
+    "name_translation": "Pemberian Yang Banyak",
+    "total": 3
+  },
+  {
+    "id": 109,
+    "id_juz": 30,
+    "name": "Al-Kafirun",
+    "name_arabic": " الكٰفرون",
+    "name_translation": "Orang-Orang kafir",
+    "total": 6
+  },
+  {
+    "id": 110,
+    "id_juz": 30,
+    "name": "An-Nasr",
+    "name_arabic": " النصر",
+    "name_translation": "Pertolongan",
+    "total": 3
+  },
+  {
+    "id": 111,
+    "id_juz": 30,
+    "name": "Al-Lahab",
+    "name_arabic": " اللهب",
+    "name_translation": "Api Yang Bergejolak",
+    "total": 5
+  },
+  {
+    "id": 112,
+    "id_juz": 30,
+    "name": "Al-Ikhlas",
+    "name_arabic": " الاخلاص",
+    "name_translation": "Ikhlas",
+    "total": 4
+  },
+  {
+    "id": 113,
+    "id_juz": 30,
+    "name": "Al-Falaq",
+    "name_arabic": " الفلق",
+    "name_translation": "Subuh",
+    "total": 5
+  },
+  {
+    "id": 114,
+    "id_juz": 30,
+    "name": "An-Nas",
+    "name_arabic": " الناس",
+    "name_translation": "Manusia",
+    "total": 6
+  }
+]

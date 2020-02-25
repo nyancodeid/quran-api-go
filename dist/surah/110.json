@@ -1,0 +1,31 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/110001.mp3",
+      "id": 6214,
+      "index": 1,
+      "text": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+      "text_translation": "Apabila telah datang pertolongan Allah dan kemenangan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/110002.mp3",
+      "id": 6215,
+      "index": 2,
+      "text": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+      "text_translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/110003.mp3",
+      "id": 6216,
+      "index": 3,
+      "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+      "text_translation": "maka bertasbihlah dalam dengan Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+    }
+  ],
+  "id": 110,
+  "id_juz": 30,
+  "name": "An-Nasr",
+  "name_arabic": " النصر",
+  "name_translation": "Pertolongan",
+  "total": 3
+}

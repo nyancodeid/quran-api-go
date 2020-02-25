@@ -1,0 +1,703 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015001.mp3",
+      "id": 1803,
+      "index": 1,
+      "text": "الۤرٰ ۗتِلْكَ اٰيٰتُ الْكِتٰبِ وَقُرْاٰنٍ مُّبِيْنٍ  ۔",
+      "text_translation": "Alif Lam Ra. (Surah) ini adalah (sebagian dari) ayat-ayat Kitab (yang sempurna) yaitu (ayat-ayat) Al-Qur'an yang memberi penjelasan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015002.mp3",
+      "id": 1804,
+      "index": 2,
+      "text": "رُبَمَا يَوَدُّ الَّذِيْنَ كَفَرُوْا لَوْ كَانُوْا مُسْلِمِيْنَ ",
+      "text_translation": "Orang kafir itu kadang-kadang (nanti di akhirat) menginginkan, sekiranya mereka dahulu (di dunia) menjadi orang Muslim."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015003.mp3",
+      "id": 1805,
+      "index": 3,
+      "text": "ذَرْهُمْ يَأْكُلُوْا وَيَتَمَتَّعُوْا وَيُلْهِهِمُ الْاَمَلُ فَسَوْفَ يَعْلَمُوْنَ ",
+      "text_translation": "Biarkanlah mereka (di dunia ini) makan dan bersenang-senang dan dilalaikan oleh angan-angan (kosong) mereka, kelak mereka akan mengetahui (akibat perbuatannya)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015004.mp3",
+      "id": 1806,
+      "index": 4,
+      "text": "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا وَلَهَا كِتَابٌ مَّعْلُوْمٌ ",
+      "text_translation": "Dan Kami tidak membinasakan suatu negeri, melainkan sudah ada ketentuan yang ditetapkan baginya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015005.mp3",
+      "id": 1807,
+      "index": 5,
+      "text": "مَا تَسْبِقُ مِنْ اُمَّةٍ اَجَلَهَا وَمَا يَسْتَأْخِرُوْنَ ",
+      "text_translation": "Tidak ada suatu umat pun yang dapat mendahului ajalnya, dan tidak (pula) dapat meminta penundaan(nya)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015006.mp3",
+      "id": 1808,
+      "index": 6,
+      "text": "وَقَالُوْا يٰٓاَيُّهَا الَّذِيْ نُزِّلَ عَلَيْهِ الذِّكْرُ اِنَّكَ لَمَجْنُوْنٌ  ۗ  ",
+      "text_translation": "Dan mereka berkata, “Wahai orang yang kepadanya diturunkan Al-Qur'an, sesungguhnya engkau (Muhammad) benar-benar orang gila."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015007.mp3",
+      "id": 1809,
+      "index": 7,
+      "text": "لَوْمَا تَأْتِيْنَا بِالْمَلٰۤىِٕكَةِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ ",
+      "text_translation": "Mengapa engkau tidak mendatangkan malaikat kepada kami, jika engkau termasuk orang yang benar?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015008.mp3",
+      "id": 1810,
+      "index": 8,
+      "text": "مَا نُنَزِّلُ الْمَلٰۤىِٕكَةَ اِلَّا بِالْحَقِّ وَمَا كَانُوْٓا اِذًا مُّنْظَرِيْنَ ",
+      "text_translation": "Kami tidak menurunkan malaikat melainkan dengan kebenaran (untuk membawa azab) dan mereka ketika itu tidak diberikan penangguhan"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015009.mp3",
+      "id": 1811,
+      "index": 9,
+      "text": "اِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَاِنَّا لَهٗ لَحٰفِظُوْنَ ",
+      "text_translation": "Sesungguhnya Kamilah yang menurunkan Al-Qur'an, dan pasti Kami (pula) yang memeliharanya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015010.mp3",
+      "id": 1812,
+      "index": 10,
+      "text": "وَلَقَدْ اَرْسَلْنَا مِنْ قَبْلِكَ فِيْ شِيَعِ الْاَوَّلِيْنَ ",
+      "text_translation": "Dan sungguh, Kami telah mengutus (beberapa rasul) sebelum engkau (Muhammad) kepada umat-umat terdahulu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015011.mp3",
+      "id": 1813,
+      "index": 11,
+      "text": "وَمَا يَأْتِيْهِمْ مِّنْ رَّسُوْلٍ اِلَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ ",
+      "text_translation": "Dan setiap kali seorang rasul datang kepada mereka, mereka selalu memperolok-olokannya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015012.mp3",
+      "id": 1814,
+      "index": 12,
+      "text": "كَذٰلِكَ نَسْلُكُهٗ فِيْ قُلُوْبِ الْمُجْرِمِيْنَۙ",
+      "text_translation": "Demikianlah, Kami memasukkannya (olok-olok itu) ke dalam hati orang yang berdosa,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015013.mp3",
+      "id": 1815,
+      "index": 13,
+      "text": "لَا يُؤْمِنُوْنَ بِهٖ وَقَدْ خَلَتْ سُنَّةُ الْاَوَّلِيْنَ ",
+      "text_translation": "mereka tidak beriman kepadanya (Al-Qur'an) padahal telah berlalu sunatullah terhadap orang-orang terdahulu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015014.mp3",
+      "id": 1816,
+      "index": 14,
+      "text": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِّنَ السَّمَاۤءِ فَظَلُّوْا فِيْهِ يَعْرُجُوْنَۙ",
+      "text_translation": "Dan kalau Kami bukakan kepada mereka salah satu pintu langit, lalu mereka terus menerus naik ke atasnya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015015.mp3",
+      "id": 1817,
+      "index": 15,
+      "text": "لَقَالُوْٓا اِنَّمَا سُكِّرَتْ اَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُوْرُوْنَ ࣖ ",
+      "text_translation": "tentulah mereka berkata, “Sesungguhnya pandangan kamilah yang dikaburkan, bahkan kami adalah orang yang terkena sihir.”  "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015016.mp3",
+      "id": 1818,
+      "index": 16,
+      "text": "وَلَقَدْ جَعَلْنَا فِى السَّمَاۤءِ بُرُوْجًا وَّزَيَّنّٰهَا لِلنّٰظِرِيْنَۙ",
+      "text_translation": "Dan sungguh, Kami telah menciptakan gugusan bintang di langit dan men-jadikannya terasa indah bagi orang yang memandang(nya),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015017.mp3",
+      "id": 1819,
+      "index": 17,
+      "text": "وَحَفِظْنٰهَا مِنْ كُلِّ شَيْطٰنٍ رَّجِيْمٍۙ",
+      "text_translation": "dan Kami menjaganya dari setiap (gangguan) setan yang terkutuk,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015018.mp3",
+      "id": 1820,
+      "index": 18,
+      "text": "اِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهٗ شِهَابٌ مُّبِيْنٌ ",
+      "text_translation": "kecuali (setan) yang mencuri-curi (berita) yang dapat didengar (dari malaikat) lalu dikejar oleh semburan api yang terang."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015019.mp3",
+      "id": 1821,
+      "index": 19,
+      "text": "وَالْاَرْضَ مَدَدْنٰهَا وَاَلْقَيْنَا فِيْهَا رَوَاسِيَ وَاَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ شَيْءٍ مَّوْزُوْنٍ",
+      "text_translation": "Dan Kami telah menghamparkan bumi dan Kami pancangkan padanya gunung-gunung serta Kami tumbuhkan di sana segala sesuatu menurut ukuran."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015020.mp3",
+      "id": 1822,
+      "index": 20,
+      "text": "وَجَعَلْنَا لَكُمْ فِيْهَا مَعَايِشَ وَمَنْ لَّسْتُمْ لَهٗ بِرَازِقِيْنَ ",
+      "text_translation": "Dan Kami telah menjadikan padanya sumber-sumber kehidupan untuk keperluanmu, dan (Kami ciptakan pula) makhluk-makhluk yang bukan kamu pemberi rezekinya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015021.mp3",
+      "id": 1823,
+      "index": 21,
+      "text": "وَاِنْ مِّنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَاۤىِٕنُهٗ وَمَا نُنَزِّلُهٗٓ اِلَّا بِقَدَرٍ مَّعْلُوْمٍ ",
+      "text_translation": "Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya; Kami tidak menurunkannya melainkan dengan ukuran tertentu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015022.mp3",
+      "id": 1824,
+      "index": 22,
+      "text": "وَاَرْسَلْنَا الرِّيٰحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَاۤءِ مَاۤءً فَاَسْقَيْنٰكُمُوْهُۚ وَمَآ اَنْتُمْ لَهٗ بِخَازِنِيْنَ",
+      "text_translation": "Dan Kami telah meniupkan angin untuk mengawinkan dan Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengan (air) itu, dan bukanlah kamu yang menyimpannya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015023.mp3",
+      "id": 1825,
+      "index": 23,
+      "text": "وَاِنَّا لَنَحْنُ نُحْيٖ وَنُمِيْتُ وَنَحْنُ الْوَارِثُوْنَ ",
+      "text_translation": "Dan sungguh, Kamilah yang menghidupkan dan mematikan dan Kami (pulalah) yang mewarisi."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015024.mp3",
+      "id": 1826,
+      "index": 24,
+      "text": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِيْنَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِيْنَ ",
+      "text_translation": "Dan sungguh, Kami mengetahui orang yang terdahulu sebelum kamu dan Kami mengetahui pula orang yang terkemudian."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015025.mp3",
+      "id": 1827,
+      "index": 25,
+      "text": "وَاِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْۗ اِنَّهٗ حَكِيْمٌ عَلِيْمٌ ࣖ ",
+      "text_translation": "Dan sesungguhnya Tuhanmu, Dialah yang akan mengumpulkan mereka. Sungguh, Dia Mahabijaksana, Maha Mengetahui."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015026.mp3",
+      "id": 1828,
+      "index": 26,
+      "text": "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ مِنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍۚ  ",
+      "text_translation": "Dan sungguh, Kami telah menciptakan manusia (Adam) dari tanah liat kering dari lumpur hitam yang diberi bentuk."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015027.mp3",
+      "id": 1829,
+      "index": 27,
+      "text": "وَالْجَاۤنَّ خَلَقْنٰهُ مِنْ قَبْلُ مِنْ نَّارِ السَّمُوْمِ  ",
+      "text_translation": "Dan Kami telah menciptakan jin sebelum (Adam) dari api yang sangat panas."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015028.mp3",
+      "id": 1830,
+      "index": 28,
+      "text": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰۤىِٕكَةِ اِنِّيْ خَالِقٌۢ بَشَرًا مِّنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍۚ  ",
+      "text_translation": "Dan (ingatlah), ketika Tuhanmu berfirman kepada para malaikat, “Sungguh, Aku akan menciptakan seorang manusia dari tanah liat kering dari lumpur hitam yang diberi bentuk."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015029.mp3",
+      "id": 1831,
+      "index": 29,
+      "text": "فَاِذَا سَوَّيْتُهٗ وَنَفَخْتُ فِيْهِ مِنْ رُّوْحِيْ فَقَعُوْا لَهٗ سٰجِدِيْنَ ",
+      "text_translation": "Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015030.mp3",
+      "id": 1832,
+      "index": 30,
+      "text": "فَسَجَدَ الْمَلٰۤىِٕكَةُ كُلُّهُمْ اَجْمَعُوْنَۙ",
+      "text_translation": "Maka bersujudlah para malaikat itu semuanya bersama-sama,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015031.mp3",
+      "id": 1833,
+      "index": 31,
+      "text": "اِلَّآ اِبْلِيْسَۗ اَبٰىٓ اَنْ يَّكُوْنَ مَعَ السّٰجِدِيْنَ ",
+      "text_translation": "kecuali Iblis. Ia enggan ikut bersama-sama para (malaikat) yang sujud itu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015032.mp3",
+      "id": 1834,
+      "index": 32,
+      "text": "قَالَ يٰٓاِبْلِيْسُ مَا لَكَ اَلَّا تَكُوْنَ مَعَ السّٰجِدِيْنَ ",
+      "text_translation": "Dia (Allah) berfirman, “Wahai Iblis! Apa sebabnya kamu (tidak ikut) sujud bersama mereka?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015033.mp3",
+      "id": 1835,
+      "index": 33,
+      "text": "قَالَ لَمْ اَكُنْ لِّاَسْجُدَ لِبَشَرٍ خَلَقْتَهٗ مِنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍ ",
+      "text_translation": "Ia (Iblis) berkata, “Aku sekali-kali tidak akan sujud kepada manusia yang Engkau telah menciptakannya dari tanah liat kering dari lumpur hitam yang diberi bentuk.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015034.mp3",
+      "id": 1836,
+      "index": 34,
+      "text": "قَالَ فَاخْرُجْ مِنْهَا فَاِنَّكَ رَجِيْمٌۙ",
+      "text_translation": "Dia (Allah) berfirman, “(Kalau begitu) keluarlah dari surga, karena sesungguhnya kamu terkutuk,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015035.mp3",
+      "id": 1837,
+      "index": 35,
+      "text": "وَّاِنَّ عَلَيْكَ اللَّعْنَةَ اِلٰى يَوْمِ الدِّيْنِ ",
+      "text_translation": " dan sesungguhnya kutukan itu tetap menimpamu sampai hari Kiamat.” "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015036.mp3",
+      "id": 1838,
+      "index": 36,
+      "text": "قَالَ رَبِّ فَاَنْظِرْنِيْٓ اِلٰى يَوْمِ يُبْعَثُوْنَ ",
+      "text_translation": "Ia (Iblis) berkata, “Ya Tuhanku,  (kalau begitu) maka berilah penangguhan kepadaku sampai hari (manusia) dibangkitkan.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015037.mp3",
+      "id": 1839,
+      "index": 37,
+      "text": "قَالَ فَاِنَّكَ مِنَ الْمُنْظَرِيْنَۙ",
+      "text_translation": " Allah berfirman, “(Baiklah) maka sesungguhnya kamu termasuk yang diberi penangguhan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015038.mp3",
+      "id": 1840,
+      "index": 38,
+      "text": "اِلٰى يَوْمِ الْوَقْتِ الْمَعْلُوْمِ ",
+      "text_translation": "sampai hari yang telah ditentukan (kiamat).”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015039.mp3",
+      "id": 1841,
+      "index": 39,
+      "text": "قَالَ رَبِّ بِمَآ اَغْوَيْتَنِيْ لَاُزَيِّنَنَّ لَهُمْ فِى الْاَرْضِ وَلَاُغْوِيَنَّهُمْ اَجْمَعِيْنَۙ  ",
+      "text_translation": "Ia (Iblis) berkata, “Tuhanku, oleh karena Engkau telah memutuskan bahwa aku sesat, aku pasti akan jadikan (kejahatan) terasa indah bagi mereka di bumi, dan aku akan menyesatkan mereka semuanya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015040.mp3",
+      "id": 1842,
+      "index": 40,
+      "text": "اِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِيْنَ ",
+      "text_translation": " kecuali hamba-hamba-Mu yang terpilih di antara mereka.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015041.mp3",
+      "id": 1843,
+      "index": 41,
+      "text": "قَالَ هٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيْمٌ ",
+      "text_translation": "Dia (Allah) berfirman, “Ini adalah jalan yang lurus (menuju) kepada-Ku.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015042.mp3",
+      "id": 1844,
+      "index": 42,
+      "text": "اِنَّ عِبَادِيْ لَيْسَ لَكَ عَلَيْهِمْ سُلْطٰنٌ اِلَّا مَنِ اتَّبَعَكَ مِنَ الْغٰوِيْنَ ",
+      "text_translation": "Sesungguhnya kamu (Iblis) tidak kuasa atas hamba-hamba-Ku, kecuali mereka yang mengikutimu, yaitu orang yang sesat."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015043.mp3",
+      "id": 1845,
+      "index": 43,
+      "text": "وَاِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ اَجْمَعِيْنَۙ",
+      "text_translation": "Dan sungguh, Jahanam itu benar-benar (tempat) yang telah dijanjikan untuk mereka (pengikut setan) semuanya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015044.mp3",
+      "id": 1846,
+      "index": 44,
+      "text": "لَهَا سَبْعَةُ اَبْوَابٍۗ لِكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُوْمٌ ࣖ  ",
+      "text_translation": "(Jahanam) itu mempunyai tujuh pintu. Setiap pintu (telah ditetapkan) untuk golongan tertentu dari mereka."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015045.mp3",
+      "id": 1847,
+      "index": 45,
+      "text": "اِنَّ الْمُتَّقِيْنَ فِيْ جَنّٰتٍ وَّعُيُوْنٍۗ  ",
+      "text_translation": "Sesungguhnya orang yang bertakwa itu berada dalam surga-surga (taman-taman), dan (di dekat) mata air (yang mengalir)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015046.mp3",
+      "id": 1848,
+      "index": 46,
+      "text": "اُدْخُلُوْهَا بِسَلٰمٍ اٰمِنِيْنَ ",
+      "text_translation": "(Allah berfirman), “Masuklah ke dalamnya dengan sejahtera dan aman.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015047.mp3",
+      "id": 1849,
+      "index": 47,
+      "text": "وَنَزَعْنَا مَا فِيْ صُدُوْرِهِمْ مِّنْ غِلٍّ اِخْوَانًا عَلٰى سُرُرٍ مُّتَقٰبِلِيْنَ ",
+      "text_translation": "Dan Kami lenyapkan segala rasa dendam yang ada dalam hati mereka; mereka merasa bersaudara, duduk berhadap-hadapan di atas dipan-dipan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015048.mp3",
+      "id": 1850,
+      "index": 48,
+      "text": "لَا يَمَسُّهُمْ فِيْهَا نَصَبٌ وَّمَا هُمْ مِّنْهَا بِمُخْرَجِيْنَ ",
+      "text_translation": "Mereka tidak merasa lelah di dalamnya dan mereka tidak akan dikeluarkan darinya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015049.mp3",
+      "id": 1851,
+      "index": 49,
+      "text": "۞ نَبِّئْ عِبَادِيْٓ اَنِّيْٓ اَنَا الْغَفُوْرُ الرَّحِيْمُۙ",
+      "text_translation": "Kabarkanlah kepada hamba-hamba-Ku, bahwa Akulah Yang Maha Pengampun, Maha Penyayang,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015050.mp3",
+      "id": 1852,
+      "index": 50,
+      "text": "وَاَنَّ عَذَابِيْ هُوَ الْعَذَابُ الْاَلِيْمُ ",
+      "text_translation": "dan sesungguhnya azab-Ku adalah azab yang sangat pedih."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015051.mp3",
+      "id": 1853,
+      "index": 51,
+      "text": "وَنَبِّئْهُمْ عَنْ ضَيْفِ اِبْرٰهِيْمَۘ ",
+      "text_translation": "Dan kabarkanlah (Muhammad) kepada mereka tentang tamu Ibrahim (malaikat)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015052.mp3",
+      "id": 1854,
+      "index": 52,
+      "text": "اِذْ دَخَلُوْا عَلَيْهِ فَقَالُوْا سَلٰمًاۗ قَالَ اِنَّا مِنْكُمْ وَجِلُوْنَ ",
+      "text_translation": "Ketika mereka masuk ke tempatnya, lalu mereka mengucapkan, “Salam.” Dia (Ibrahim) berkata, “Kami benar-benar merasa takut kepadamu.” "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015053.mp3",
+      "id": 1855,
+      "index": 53,
+      "text": "قَالُوْا لَا تَوْجَلْ اِنَّا نُبَشِّرُكَ بِغُلٰمٍ عَلِيْمٍ ",
+      "text_translation": "(Mereka) berkata, “Janganlah engkau merasa takut, sesungguhnya kami memberi kabar gembira kepadamu dengan (kelahiran seorang) anak laki-laki (yang akan menjadi) orang yang pandai (Ishak).”  "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015054.mp3",
+      "id": 1856,
+      "index": 54,
+      "text": "قَالَ اَبَشَّرْتُمُوْنِيْ عَلٰٓى اَنْ مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُوْنَ ",
+      "text_translation": "Dia (Ibrahim) berkata, “Benarkah kamu memberi kabar gembira kepadaku padahal usiaku telah lanjut, lalu (dengan cara) bagaimana kamu memberi (kabar gembira) tersebut?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015055.mp3",
+      "id": 1857,
+      "index": 55,
+      "text": "قَالُوْا بَشَّرْنٰكَ بِالْحَقِّ فَلَا تَكُنْ مِّنَ الْقٰنِطِيْنَ ",
+      "text_translation": "(Mereka) menjawab, “Kami menyampaikan kabar gembira kepadamu dengan benar, maka janganlah engkau termasuk orang yang berputus asa.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015056.mp3",
+      "id": 1858,
+      "index": 56,
+      "text": "قَالَ وَمَنْ يَّقْنَطُ مِنْ رَّحْمَةِ رَبِّهٖٓ اِلَّا الضَّاۤلُّوْنَ ",
+      "text_translation": "Dia (Ibrahim) berkata, “Tidak ada yang berputus asa dari rahmat Tuhannya, kecuali orang yang sesat.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015057.mp3",
+      "id": 1859,
+      "index": 57,
+      "text": "قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُوْنَ ",
+      "text_translation": " Dia (Ibrahim) berkata, “Apakah urusanmu yang penting, wahai para utusan?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015058.mp3",
+      "id": 1860,
+      "index": 58,
+      "text": "قَالُوْٓا اِنَّآ اُرْسِلْنَآ اِلٰى قَوْمٍ مُّجْرِمِيْنَۙ",
+      "text_translation": "(Mereka) menjawab, “Sesungguhnya kami diutus kepada kaum yang berdosa,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015059.mp3",
+      "id": 1861,
+      "index": 59,
+      "text": "اِلَّآ اٰلَ لُوْطٍۗ اِنَّا لَمُنَجُّوْهُمْ اَجْمَعِيْنَۙ",
+      "text_translation": "kecuali para pengikut Lut. Sesungguhnya kami pasti menyelamatkan mereka semuanya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015060.mp3",
+      "id": 1862,
+      "index": 60,
+      "text": "اِلَّا امْرَاَتَهٗ قَدَّرْنَآ اِنَّهَا لَمِنَ الْغٰبِرِيْنَ ࣖ ",
+      "text_translation": "kecuali istrinya, kami telah menentukan, bahwa dia termasuk orang yang tertinggal (bersama orang kafir lainnya).”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015061.mp3",
+      "id": 1863,
+      "index": 61,
+      "text": "فَلَمَّا جَاۤءَ اٰلَ لُوْطِ ِۨالْمُرْسَلُوْنَۙ",
+      "text_translation": "Maka ketika utusan itu datang kepada para pengikut Lut,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015062.mp3",
+      "id": 1864,
+      "index": 62,
+      "text": "قَالَ اِنَّكُمْ قَوْمٌ مُّنْكَرُوْنَ ",
+      "text_translation": "dia (Lut) berkata, “Sesungguhnya kamu orang yang tidak kami kenal.” "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015063.mp3",
+      "id": 1865,
+      "index": 63,
+      "text": "قَالُوْا بَلْ جِئْنٰكَ بِمَا كَانُوْا فِيْهِ يَمْتَرُوْنَ ",
+      "text_translation": "(Para utusan) menjawab, “Sebenarnya kami ini datang kepadamu membawa azab yang selalu mereka dustakan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015064.mp3",
+      "id": 1866,
+      "index": 64,
+      "text": "وَاَتَيْنٰكَ بِالْحَقِّ وَاِنَّا لَصٰدِقُوْنَ ",
+      "text_translation": "Dan kami datang kepadamu membawa kebenaran dan sungguh, kami orang yang benar."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015065.mp3",
+      "id": 1867,
+      "index": 65,
+      "text": "فَاَسْرِ بِاَهْلِكَ بِقِطْعٍ مِّنَ الَّيْلِ وَاتَّبِعْ اَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنْكُمْ اَحَدٌ وَّامْضُوْا حَيْثُ تُؤْمَرُوْنَ ",
+      "text_translation": "Maka pergilah kamu pada akhir malam beserta keluargamu, dan ikutilah mereka dari belakang. Jangan ada di antara kamu yang menoleh ke belakang dan teruskanlah perjalanan ke tempat yang diperintahkan kepadamu.”  "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015066.mp3",
+      "id": 1868,
+      "index": 66,
+      "text": "وَقَضَيْنَآ اِلَيْهِ ذٰلِكَ الْاَمْرَ اَنَّ دَابِرَ هٰٓؤُلَاۤءِ مَقْطُوْعٌ مُّصْبِحِيْنَ ",
+      "text_translation": "Dan telah Kami tetapkan kepadanya (Lut) keputusan itu, bahwa akhirnya mereka akan ditumpas habis pada waktu subuh."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015067.mp3",
+      "id": 1869,
+      "index": 67,
+      "text": "وَجَاۤءَ اَهْلُ الْمَدِيْنَةِ يَسْتَبْشِرُوْنَ ",
+      "text_translation": "Dan datanglah penduduk kota itu (ke rumah Lut) dengan gembira (karena kedatangan tamu itu)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015068.mp3",
+      "id": 1870,
+      "index": 68,
+      "text": "قَالَ اِنَّ هٰٓؤُلَاۤءِ ضَيْفِيْ فَلَا تَفْضَحُوْنِۙ",
+      "text_translation": "Dia (Lut) berkata, “Sesungguhnya mereka adalah tamuku; maka jangan kamu mempermalukan aku,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015069.mp3",
+      "id": 1871,
+      "index": 69,
+      "text": "وَاتَّقُوا اللّٰهَ وَلَا تُخْزُوْنِ ",
+      "text_translation": "Dan bertakwalah kepada Allah dan janganlah kamu membuat aku terhina.” "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015070.mp3",
+      "id": 1872,
+      "index": 70,
+      "text": "قَالُوْٓا اَوَلَمْ نَنْهَكَ عَنِ الْعٰلَمِيْنَ ",
+      "text_translation": " (Mereka) berkata, “Bukankah kami telah melarangmu dari (melindungi) manusia?”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015071.mp3",
+      "id": 1873,
+      "index": 71,
+      "text": "قَالَ هٰٓؤُلَاۤءِ بَنٰتِيْٓ اِنْ كُنْتُمْ فٰعِلِيْنَۗ ",
+      "text_translation": "Dia (Lut) berkata, “Mereka itulah putri-putri (negeri)ku (nikahlah dengan mereka), jika kamu hendak berbuat.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015072.mp3",
+      "id": 1874,
+      "index": 72,
+      "text": "لَعَمْرُكَ اِنَّهُمْ لَفِيْ سَكْرَتِهِمْ يَعْمَهُوْنَ ",
+      "text_translation": "(Allah berfirman), “Demi umurmu (Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (kesesatan).”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015073.mp3",
+      "id": 1875,
+      "index": 73,
+      "text": "فَاَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِيْنَۙ",
+      "text_translation": "Maka mereka dibinasakan oleh suara keras yang mengguntur, ketika matahari akan terbit."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015074.mp3",
+      "id": 1876,
+      "index": 74,
+      "text": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَاَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّنْ سِجِّيْلٍ ",
+      "text_translation": "Maka Kami jungkirbalikkan (negeri itu) dan Kami hujani mereka dengan batu dari tanah yang keras."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015075.mp3",
+      "id": 1877,
+      "index": 75,
+      "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّلْمُتَوَسِّمِيْنَۙ",
+      "text_translation": "Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi orang yang memperhatikan tanda-tanda,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015076.mp3",
+      "id": 1878,
+      "index": 76,
+      "text": "وَاِنَّهَا لَبِسَبِيْلٍ مُّقِيْمٍ ",
+      "text_translation": "dan sungguh, (negeri) itu benar-benar terletak di jalan yang masih tetap (dilalui manusia)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015077.mp3",
+      "id": 1879,
+      "index": 77,
+      "text": "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً لِّلْمُؤْمِنِيْنَۗ  ",
+      "text_translation": "Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah) bagi orang yang beriman."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015078.mp3",
+      "id": 1880,
+      "index": 78,
+      "text": "وَاِنْ كَانَ اَصْحٰبُ الْاَيْكَةِ لَظٰلِمِيْنَۙ",
+      "text_translation": "Dan sesungguhnya penduduk Aikah itu benar-benar kaum yang zalim,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015079.mp3",
+      "id": 1881,
+      "index": 79,
+      "text": "فَانْتَقَمْنَا مِنْهُمْۘ وَاِنَّهُمَا لَبِاِمَامٍ مُّبِيْنٍۗ  ࣖ  ",
+      "text_translation": "maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri) itu terletak di satu jalur jalan raya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015080.mp3",
+      "id": 1882,
+      "index": 80,
+      "text": "وَلَقَدْ كَذَّبَ اَصْحٰبُ الْحِجْرِ الْمُرْسَلِيْنَۙ",
+      "text_translation": "Dan sesungguhnya penduduk negeri Hijr benar-benar telah mendustakan para rasul (mereka),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015081.mp3",
+      "id": 1883,
+      "index": 81,
+      "text": "وَاٰتَيْنٰهُمْ اٰيٰتِنَا فَكَانُوْا عَنْهَا مُعْرِضِيْنَۙ",
+      "text_translation": "dan Kami telah mendatangkan kepada mereka tanda-tanda (kekuasaan) Kami, tetapi mereka selalu berpaling darinya, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015082.mp3",
+      "id": 1884,
+      "index": 82,
+      "text": "وَكَانُوْا يَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا اٰمِنِيْنَ ",
+      "text_translation": "dan mereka memahat rumah-rumah dari gunung batu, (yang didiami) dengan rasa aman."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015083.mp3",
+      "id": 1885,
+      "index": 83,
+      "text": "فَاَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِيْنَۙ",
+      "text_translation": "Kemudian mereka dibinasakan oleh suara keras yang mengguntur pada pagi hari,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015084.mp3",
+      "id": 1886,
+      "index": 84,
+      "text": "فَمَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يَكْسِبُوْنَۗ  ",
+      "text_translation": "sehingga tidak berguna bagi mereka, apa yang telah mereka usahakan. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015085.mp3",
+      "id": 1887,
+      "index": 85,
+      "text": "وَمَا خَلَقْنَا السَّمٰوٰتِ وَالْاَرْضَ وَمَا بَيْنَهُمَآ اِلَّا بِالْحَقِّۗ وَاِنَّ السَّاعَةَ لَاٰتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيْلَ ",
+      "text_translation": "Dan Kami tidak menciptakan langit dan bumi serta apa yang ada di antara keduanya, melainkan dengan kebenaran. Dan sungguh, Kiamat pasti akan datang, maka maafkanlah (mereka) dengan cara yang baik."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015086.mp3",
+      "id": 1888,
+      "index": 86,
+      "text": "اِنَّ رَبَّكَ هُوَ الْخَلّٰقُ الْعَلِيْمُ ",
+      "text_translation": "Sungguh, Tuhanmu, Dialah Yang Maha Pencipta, Maha Mengetahui."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015087.mp3",
+      "id": 1889,
+      "index": 87,
+      "text": "وَلَقَدْ اٰتَيْنٰكَ سَبْعًا مِّنَ الْمَثَانِيْ وَالْقُرْاٰنَ الْعَظِيْمَ ",
+      "text_translation": "Dan sungguh, Kami telah memberikan kepadamu tujuh (ayat) yang (dibaca) berulang-ulang dan Al-Qur'an yang agung."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015088.mp3",
+      "id": 1890,
+      "index": 88,
+      "text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلٰى مَا مَتَّعْنَا بِهٖٓ اَزْوَاجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِيْنَ ",
+      "text_translation": "Jangan sekali-kali engkau (Muhammad) tujukan pandanganmu kepada kenikmatan hidup yang telah Kami berikan kepada beberapa golongan di antara mereka (orang kafir), dan jangan engkau bersedih hati terhadap mereka dan berendah hatilah engkau terhadap orang yang beriman."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015089.mp3",
+      "id": 1891,
+      "index": 89,
+      "text": "وَقُلْ اِنِّيْٓ اَنَا النَّذِيْرُ الْمُبِيْنُۚ  ",
+      "text_translation": "Dan katakanlah (Muhammad), “Sesungguhnya aku adalah pemberi peringatan yang jelas.”"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015090.mp3",
+      "id": 1892,
+      "index": 90,
+      "text": "كَمَآ اَنْزَلْنَا عَلَى الْمُقْتَسِمِيْنَۙ",
+      "text_translation": "Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang yang memilah-milah (Kitab Allah),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015091.mp3",
+      "id": 1893,
+      "index": 91,
+      "text": "الَّذِيْنَ جَعَلُوا الْقُرْاٰنَ عِضِيْنَ ",
+      "text_translation": "(yaitu) orang-orang yang telah menjadikan Al-Qur'an itu terbagi-bagi."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015092.mp3",
+      "id": 1894,
+      "index": 92,
+      "text": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ اَجْمَعِيْنَۙ",
+      "text_translation": "Maka demi Tuhanmu, Kami pasti akan menanyai mereka semua,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015093.mp3",
+      "id": 1895,
+      "index": 93,
+      "text": "عَمَّا كَانُوْا يَعْمَلُوْنَ ",
+      "text_translation": "tentang apa yang telah mereka kerjakan dahulu. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015094.mp3",
+      "id": 1896,
+      "index": 94,
+      "text": "فَاصْدَعْ بِمَا تُؤْمَرُ وَاَعْرِضْ عَنِ الْمُشْرِكِيْنَ ",
+      "text_translation": "Maka sampaikanlah (Muhammad) secara terang-terangan segala apa yang diperintahkan (kepadamu) dan berpalinglah dari orang yang musyrik."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015095.mp3",
+      "id": 1897,
+      "index": 95,
+      "text": "اِنَّا كَفَيْنٰكَ الْمُسْتَهْزِءِيْنَۙ",
+      "text_translation": "Sesungguhnya Kami memelihara engkau (Muhammad) dari (kejahatan) orang yang memperolok-olokkan (engkau),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015096.mp3",
+      "id": 1898,
+      "index": 96,
+      "text": "الَّذِيْنَ يَجْعَلُوْنَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَۚ فَسَوْفَ يَعْلَمُوْنَ ",
+      "text_translation": " (yaitu) orang yang menganggap adanya tuhan selain Allah; mereka kelak akan mengetahui (akibatnya)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015097.mp3",
+      "id": 1899,
+      "index": 97,
+      "text": "وَلَقَدْ نَعْلَمُ اَنَّكَ يَضِيْقُ صَدْرُكَ بِمَا يَقُوْلُوْنَۙ",
+      "text_translation": "Dan sungguh, Kami mengetahui bahwa dadamu menjadi sempit disebabkan apa yang mereka ucapkan, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015098.mp3",
+      "id": 1900,
+      "index": 98,
+      "text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِّنَ السَّاجِدِيْنَۙ",
+      "text_translation": "maka bertasbihlah dengan memuji Tuhanmu dan jadilah engkau di antara orang yang bersujud (salat), "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/015099.mp3",
+      "id": 1901,
+      "index": 99,
+      "text": "وَاعْبُدْ رَبَّكَ حَتّٰى يَأْتِيَكَ الْيَقِيْنُ ࣖࣖ ",
+      "text_translation": "Dan sembahlah Tuhanmu sampai yakin (ajal) datang kepadamu."
+    }
+  ],
+  "id": 15,
+  "id_juz": 13,
+  "name": "Al-Hijr",
+  "name_arabic": " الحجر",
+  "name_translation": "Hijr",
+  "total": 99
+}

@@ -1,0 +1,66 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094001.mp3",
+      "id": 6091,
+      "index": 1,
+      "text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+      "text_translation": "Bukankah Kami telah melapangkan dadamu (Muhammad)?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094002.mp3",
+      "id": 6092,
+      "index": 2,
+      "text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+      "text_translation": "dan Kami pun telah menurunkan bebanmu darimu,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094003.mp3",
+      "id": 6093,
+      "index": 3,
+      "text": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+      "text_translation": "yang memberatkan punggungmu, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094004.mp3",
+      "id": 6094,
+      "index": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+      "text_translation": "dan Kami tinggikan sebutan (nama)mu bagimu."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094005.mp3",
+      "id": 6095,
+      "index": 5,
+      "text": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+      "text_translation": "Maka sesungguhnya beserta kesulitan ada kemudahan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094006.mp3",
+      "id": 6096,
+      "index": 6,
+      "text": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+      "text_translation": "sesungguhnya beserta kesulitan itu ada kemudahan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094007.mp3",
+      "id": 6097,
+      "index": 7,
+      "text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+      "text_translation": "Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain),"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/094008.mp3",
+      "id": 6098,
+      "index": 8,
+      "text": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+      "text_translation": "dan hanya kepada Tuhanmulah engkau berharap."
+    }
+  ],
+  "id": 94,
+  "id_juz": 30,
+  "name": "Asy-Syarh",
+  "name_arabic": " الشرح",
+  "name_translation": "Lapang",
+  "total": 8
+}

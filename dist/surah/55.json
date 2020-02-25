@@ -1,0 +1,556 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055001.mp3",
+      "id": 4902,
+      "index": 1,
+      "text": "اَلرَّحْمٰنُۙ  ",
+      "text_translation": "(Allah) Yang Maha Pengasih,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055002.mp3",
+      "id": 4903,
+      "index": 2,
+      "text": "عَلَّمَ الْقُرْاٰنَۗ ",
+      "text_translation": "Yang telah mengajarkan Al-Qur'an."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055003.mp3",
+      "id": 4904,
+      "index": 3,
+      "text": "خَلَقَ الْاِنْسَانَۙ ",
+      "text_translation": "Dia menciptakan manusia, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055004.mp3",
+      "id": 4905,
+      "index": 4,
+      "text": "عَلَّمَهُ الْبَيَانَ ",
+      "text_translation": "mengajarnya pandai berbicara."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055005.mp3",
+      "id": 4906,
+      "index": 5,
+      "text": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۙ ",
+      "text_translation": "Matahari dan bulan beredar menurut perhitungan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055006.mp3",
+      "id": 4907,
+      "index": 6,
+      "text": "وَّالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ ",
+      "text_translation": "dan tetumbuhan dan pepohonan, keduanya tunduk (kepada-Nya). "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055007.mp3",
+      "id": 4908,
+      "index": 7,
+      "text": "وَالسَّمَاۤءَ رَفَعَهَا وَوَضَعَ الْمِيْزَانَۙ  ",
+      "text_translation": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055008.mp3",
+      "id": 4909,
+      "index": 8,
+      "text": "اَلَّا تَطْغَوْا فِى الْمِيْزَانِ ",
+      "text_translation": "agar kamu jangan merusak keseimbangan itu, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055009.mp3",
+      "id": 4910,
+      "index": 9,
+      "text": "وَاَقِيْمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيْزَانَ ",
+      "text_translation": "dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055010.mp3",
+      "id": 4911,
+      "index": 10,
+      "text": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ  ",
+      "text_translation": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya), "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055011.mp3",
+      "id": 4912,
+      "index": 11,
+      "text": "فِيْهَا فَاكِهَةٌ وَّالنَّخْلُ ذَاتُ الْاَكْمَامِۖ  ",
+      "text_translation": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055012.mp3",
+      "id": 4913,
+      "index": 12,
+      "text": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ  ",
+      "text_translation": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055013.mp3",
+      "id": 4914,
+      "index": 13,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055014.mp3",
+      "id": 4915,
+      "index": 14,
+      "text": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ ",
+      "text_translation": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055015.mp3",
+      "id": 4916,
+      "index": 15,
+      "text": "وَخَلَقَ الْجَاۤنَّ مِنْ مَّارِجٍ مِّنْ نَّارٍۚ  ",
+      "text_translation": "dan Dia menciptakan jin dari nyala api tanpa asap."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055016.mp3",
+      "id": 4917,
+      "index": 16,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055017.mp3",
+      "id": 4918,
+      "index": 17,
+      "text": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ ",
+      "text_translation": "Tuhan (yang memelihara) dua timur dan Tuhan (yang memelihara) dua barat."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055018.mp3",
+      "id": 4919,
+      "index": 18,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055019.mp3",
+      "id": 4920,
+      "index": 19,
+      "text": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيٰنِۙ",
+      "text_translation": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055020.mp3",
+      "id": 4921,
+      "index": 20,
+      "text": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيٰنِۚ",
+      "text_translation": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055021.mp3",
+      "id": 4922,
+      "index": 21,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055022.mp3",
+      "id": 4923,
+      "index": 22,
+      "text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُۚ",
+      "text_translation": "Dari keduanya keluar mutiara dan marjan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055023.mp3",
+      "id": 4924,
+      "index": 23,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055024.mp3",
+      "id": 4925,
+      "index": 24,
+      "text": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ  ",
+      "text_translation": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055025.mp3",
+      "id": 4926,
+      "index": 25,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan? "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055026.mp3",
+      "id": 4927,
+      "index": 26,
+      "text": "كُلُّ مَنْ عَلَيْهَا فَانٍۖ  ",
+      "text_translation": "Semua yang ada di bumi itu akan binasa, "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055027.mp3",
+      "id": 4928,
+      "index": 27,
+      "text": "وَّيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلٰلِ وَالْاِكْرَامِۚ  ",
+      "text_translation": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055028.mp3",
+      "id": 4929,
+      "index": 28,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055029.mp3",
+      "id": 4930,
+      "index": 29,
+      "text": "يَسْـَٔلُهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ  كُلَّ يَوْمٍ هُوَ فِيْ شَأْنٍۚ",
+      "text_translation": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055030.mp3",
+      "id": 4931,
+      "index": 30,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055031.mp3",
+      "id": 4932,
+      "index": 31,
+      "text": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلٰنِۚ  ",
+      "text_translation": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin! "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055032.mp3",
+      "id": 4933,
+      "index": 32,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055033.mp3",
+      "id": 4934,
+      "index": 33,
+      "text": "يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ  لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ ",
+      "text_translation": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah). "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055034.mp3",
+      "id": 4935,
+      "index": 34,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055035.mp3",
+      "id": 4936,
+      "index": 35,
+      "text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّنْ نَّارٍۙ وَّنُحَاسٌ فَلَا تَنْتَصِرَانِۚ ",
+      "text_translation": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055036.mp3",
+      "id": 4937,
+      "index": 36,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055037.mp3",
+      "id": 4938,
+      "index": 37,
+      "text": "فَاِذَا انْشَقَّتِ السَّمَاۤءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ ",
+      "text_translation": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055038.mp3",
+      "id": 4939,
+      "index": 38,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055039.mp3",
+      "id": 4940,
+      "index": 39,
+      "text": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَنْ ذَنْۢبِهٖٓ اِنْسٌ وَّلَا جَاۤنٌّۚ  ",
+      "text_translation": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055040.mp3",
+      "id": 4941,
+      "index": 40,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ  ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055041.mp3",
+      "id": 4942,
+      "index": 41,
+      "text": "يُعْرَفُ الْمُجْرِمُوْنَ بِسِيْمٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِيْ وَالْاَقْدَامِۚ  ",
+      "text_translation": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055042.mp3",
+      "id": 4943,
+      "index": 42,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055043.mp3",
+      "id": 4944,
+      "index": 43,
+      "text": "هٰذِهٖ جَهَنَّمُ الَّتِيْ يُكَذِّبُ بِهَا الْمُجْرِمُوْنَۘ ",
+      "text_translation": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055044.mp3",
+      "id": 4945,
+      "index": 44,
+      "text": "يَطُوْفُوْنَ بَيْنَهَا وَبَيْنَ حَمِيْمٍ اٰنٍۚ  ",
+      "text_translation": "Mereka berkeliling di sana dan di antara air yang mendidih. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055045.mp3",
+      "id": 4946,
+      "index": 45,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055046.mp3",
+      "id": 4947,
+      "index": 46,
+      "text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِۚ",
+      "text_translation": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055047.mp3",
+      "id": 4948,
+      "index": 47,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055048.mp3",
+      "id": 4949,
+      "index": 48,
+      "text": "ذَوَاتَآ اَفْنَانٍۚ ",
+      "text_translation": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055049.mp3",
+      "id": 4950,
+      "index": 49,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055050.mp3",
+      "id": 4951,
+      "index": 50,
+      "text": "فِيْهِمَا عَيْنٰنِ تَجْرِيٰنِۚ ",
+      "text_translation": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055051.mp3",
+      "id": 4952,
+      "index": 51,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055052.mp3",
+      "id": 4953,
+      "index": 52,
+      "text": "فِيْهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجٰنِۚ ",
+      "text_translation": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055053.mp3",
+      "id": 4954,
+      "index": 53,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055054.mp3",
+      "id": 4955,
+      "index": 54,
+      "text": "مُتَّكِـِٕيْنَ عَلٰى فُرُشٍۢ بَطَاۤىِٕنُهَا مِنْ اِسْتَبْرَقٍۗ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ ",
+      "text_translation": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055055.mp3",
+      "id": 4956,
+      "index": 55,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055056.mp3",
+      "id": 4957,
+      "index": 56,
+      "text": "فِيْهِنَّ قٰصِرٰتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+      "text_translation": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055057.mp3",
+      "id": 4958,
+      "index": 57,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055058.mp3",
+      "id": 4959,
+      "index": 58,
+      "text": "كَاَنَّهُنَّ الْيَاقُوْتُ وَالْمَرْجَانُۚ ",
+      "text_translation": "Seakan-akan mereka itu permata yakut dan marjan. "
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055059.mp3",
+      "id": 4960,
+      "index": 59,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055060.mp3",
+      "id": 4961,
+      "index": 60,
+      "text": "هَلْ جَزَاۤءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ ",
+      "text_translation": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055061.mp3",
+      "id": 4962,
+      "index": 61,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055062.mp3",
+      "id": 4963,
+      "index": 62,
+      "text": "وَمِنْ دُوْنِهِمَا جَنَّتٰنِۚ ",
+      "text_translation": "Dan selain dari dua surga itu ada dua surga lagi."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055063.mp3",
+      "id": 4964,
+      "index": 63,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055064.mp3",
+      "id": 4965,
+      "index": 64,
+      "text": "مُدْهَاۤمَّتٰنِۚ  ",
+      "text_translation": "kedua surga itu (kelihatan) hijau tua warnanya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055065.mp3",
+      "id": 4966,
+      "index": 65,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055066.mp3",
+      "id": 4967,
+      "index": 66,
+      "text": "فِيْهِمَا عَيْنٰنِ نَضَّاخَتٰنِۚ ",
+      "text_translation": "Di dalam keduanya (surga itu) ada dua buah mata air yang memancar."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055067.mp3",
+      "id": 4968,
+      "index": 67,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055068.mp3",
+      "id": 4969,
+      "index": 68,
+      "text": "فِيْهِمَا فَاكِهَةٌ وَّنَخْلٌ وَّرُمَّانٌۚ  ",
+      "text_translation": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055069.mp3",
+      "id": 4970,
+      "index": 69,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055070.mp3",
+      "id": 4971,
+      "index": 70,
+      "text": "فِيْهِنَّ خَيْرٰتٌ حِسَانٌۚ  ",
+      "text_translation": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055071.mp3",
+      "id": 4972,
+      "index": 71,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055072.mp3",
+      "id": 4973,
+      "index": 72,
+      "text": "حُوْرٌ مَّقْصُوْرٰتٌ فِى الْخِيَامِۚ  ",
+      "text_translation": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055073.mp3",
+      "id": 4974,
+      "index": 73,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055074.mp3",
+      "id": 4975,
+      "index": 74,
+      "text": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ  ",
+      "text_translation": "Mereka tidak pernah disentuh oleh manusia maupun oleh jin sebelumnya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055075.mp3",
+      "id": 4976,
+      "index": 75,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ  ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055076.mp3",
+      "id": 4977,
+      "index": 76,
+      "text": "مُتَّكِـِٕيْنَ عَلٰى رَفْرَفٍ خُضْرٍ وَّعَبْقَرِيٍّ حِسَانٍۚ  ",
+      "text_translation": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055077.mp3",
+      "id": 4978,
+      "index": 77,
+      "text": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ ",
+      "text_translation": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/055078.mp3",
+      "id": 4979,
+      "index": 78,
+      "text": "تَبٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلٰلِ وَالْاِكْرَامِ ࣖ ",
+      "text_translation": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+    }
+  ],
+  "id": 55,
+  "id_juz": 27,
+  "name": "Ar-Rahman",
+  "name_arabic": " الرحمن",
+  "name_translation": "Maha Pengasih",
+  "total": 78
+}

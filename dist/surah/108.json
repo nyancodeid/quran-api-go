@@ -1,0 +1,31 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/108001.mp3",
+      "id": 6205,
+      "index": 1,
+      "text": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+      "text_translation": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/108002.mp3",
+      "id": 6206,
+      "index": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+      "text_translation": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/108003.mp3",
+      "id": 6207,
+      "index": 3,
+      "text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+      "text_translation": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+    }
+  ],
+  "id": 108,
+  "id_juz": 30,
+  "name": "Al-Kausar",
+  "name_arabic": " الكوثر",
+  "name_translation": "Pemberian Yang Banyak",
+  "total": 3
+}

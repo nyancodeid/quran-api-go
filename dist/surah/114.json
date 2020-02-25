@@ -1,0 +1,52 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114001.mp3",
+      "id": 6231,
+      "index": 1,
+      "text": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+      "text_translation": "Katakanlah, “Aku berlindung kepada Tuhannya manusia,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114002.mp3",
+      "id": 6232,
+      "index": 2,
+      "text": "مَلِكِ النَّاسِۙ",
+      "text_translation": "Raja manusia,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114003.mp3",
+      "id": 6233,
+      "index": 3,
+      "text": "اِلٰهِ النَّاسِۙ",
+      "text_translation": "sembahan manusia,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114004.mp3",
+      "id": 6234,
+      "index": 4,
+      "text": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+      "text_translation": "dari kejahatan (bisikan) setan yang bersembunyi,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114005.mp3",
+      "id": 6235,
+      "index": 5,
+      "text": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+      "text_translation": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/114006.mp3",
+      "id": 6236,
+      "index": 6,
+      "text": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+      "text_translation": "dari (golongan) jin dan manusia.”"
+    }
+  ],
+  "id": 114,
+  "id_juz": 30,
+  "name": "An-Nas",
+  "name_arabic": " الناس",
+  "name_translation": "Manusia",
+  "total": 6
+}

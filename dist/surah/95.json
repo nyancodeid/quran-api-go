@@ -1,0 +1,66 @@
+{
+  "ayat": [
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095001.mp3",
+      "id": 6099,
+      "index": 1,
+      "text": "وَالتِّيْنِ وَالزَّيْتُوْنِۙ",
+      "text_translation": "Demi (buah) Tin dan (buah) Zaitun,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095002.mp3",
+      "id": 6100,
+      "index": 2,
+      "text": "وَطُوْرِ سِيْنِيْنَۙ",
+      "text_translation": "demi gunung Sinai,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095003.mp3",
+      "id": 6101,
+      "index": 3,
+      "text": "وَهٰذَا الْبَلَدِ الْاَمِيْنِۙ",
+      "text_translation": "dan demi negeri (Mekah) yang aman ini."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095004.mp3",
+      "id": 6102,
+      "index": 4,
+      "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ",
+      "text_translation": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095005.mp3",
+      "id": 6103,
+      "index": 5,
+      "text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سَافِلِيْنَۙ",
+      "text_translation": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095006.mp3",
+      "id": 6104,
+      "index": 6,
+      "text": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍۗ",
+      "text_translation": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095007.mp3",
+      "id": 6105,
+      "index": 7,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّيْنِۗ",
+      "text_translation": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+    },
+    {
+      "audio": "https://quran.kemenag.go.id/cmsq/source/s01/095008.mp3",
+      "id": 6106,
+      "index": 8,
+      "text": "اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ ࣖ",
+      "text_translation": "Bukankah Allah hakim yang paling adil?"
+    }
+  ],
+  "id": 95,
+  "id_juz": 30,
+  "name": "At-Tin",
+  "name_arabic": " التين",
+  "name_translation": "Buah Tin",
+  "total": 8
+}
