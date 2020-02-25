@@ -17,4 +17,4 @@ Just fetch `.json` file
 ```
 
 ## Type Definition
-You can see type definition for available programming language on `type_definition.md`
+You can see type definition for available programming language on [type_definition.md](/type_definition.md)
